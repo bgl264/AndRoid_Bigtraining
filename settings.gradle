@@ -1,0 +1,4 @@
+rootProject.name='AndRoid_Bigtraining'
+include ':app'
+include ':app:databean'
+include ':app:data'
